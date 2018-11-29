@@ -1,0 +1,23 @@
+body{
+    background-color:#53E8F1 
+}
+.centered {
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+#left, #right {
+   
+    background: #ccc;
+    
+    vertical-align: bottom;
+    display: inline-block;
+    /* ie6/7 */
+    *display: inline;
+    zoom: 1;
+}
+.whit {
+    background-color: rgb(251, 255, 255);
+    margin-top: 150px;
+    padding: 19.5px;
+    }
